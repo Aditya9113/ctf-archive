@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo python /challenge/script.py >> /challenge/output.txt
+sudo /challenge/script >> /challenge/output.txt
 
-rm /challenge/script.py
+#rm /challenge/script
