@@ -1,0 +1,12 @@
+id: hkcertctf2020
+name: HK Cyber Security New Generation CTF Challenge 2020
+
+challenges:
+  - id: rop
+    name: BINARY EXPLOITATION - 500 - ROP
+  - id: angr
+    name: REV - 500 - Angr Men
+  - id: calmdown
+    name: CRYPTO - 500 - Calm Down
+  - id: signin
+    name: CRYPTO - 500 - Sign in please

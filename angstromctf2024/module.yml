@@ -4,6 +4,8 @@ name: ångstromCTF 2024
 challenges:
   - id: exam
     name: PWN - 50 - exam
+  - id: presidential
+    name: PWN - 100 - presidential
   - id: bap
     name: PWN - 130 - Bap
     visibility: 
@@ -18,6 +20,8 @@ challenges:
     name: PWN - 230 - themectl
   - id: stacksort
     name: PWN - 250 - stacksort
+  - id: philosophy
+    name: CRYTPO - 40 - philosophy
   - id: awman
     name: CRYTPO - 50 - aw-man
   - id: simonsays

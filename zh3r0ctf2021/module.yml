@@ -2,6 +2,16 @@ id: zh3r0ctf2021
 name: Zh3r0 CTF V2
 
 challenges:
+  - id: babyre
+    name: REV - 100 - BabyRE
+  - id: estr
+    name: REV - 365 - Eat Sleep Trace Repeat
+  - id: sabloom
+    name: REV - 949 - Sabloom Text 6
+  - id: optimiseme
+    name: REV - 983 - OptimiseMe
+  - id: pyaz
+    name: REV - 991 - Pyaz
   - id: alicebobdave
     name: CRYPTO - 100 - alice_bob_dave
   - id: injection
@@ -14,3 +24,5 @@ challenges:
     name: CRYPTO - 930 - import numpy as MT
   - id: mersenne
     name: CRYPTO - 949 - Real Mersenne
+  - id: cheater
+    name: MISC - 997 - Cheater Mind

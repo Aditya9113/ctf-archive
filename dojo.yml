@@ -47,6 +47,8 @@ modules:
   - id: patriotctf2023
   - id: uiuctf2023
   - id: uiuctf2024
+  - id: hkcertctf2020
+  - id: hkcertctf2021
   - id: grehack2012
   - id: 29c3ctf2012
   - id: gitsctf2012
